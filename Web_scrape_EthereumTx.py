@@ -11,10 +11,10 @@
 #                                 
 
 # Scripted: Paul92S
-# Date: 14/11/18
+# Date: 02/03/18
 # gitVersion: 0.1
 
-#transactions over the last ≈17hrs 
+# 500k transactions over the last ≈17hrs 
 #Looping through page numbers using url manipulation
 #for i in range(1,10000):
 #adding results to a dF for analysis
